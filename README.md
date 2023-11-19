@@ -11,3 +11,9 @@ Video Link: https://screenrec.com/share/QXld0zgt2n
 Create a basic contact management system that stores and manages contacts, allowing users to add, edit, and delete contacts.
 
 Video Link:  https://screenrec.com/share/chW5zj6nBb
+
+#Task 3: To-Do List Application
+
+Create a simple to-do list application allowing users to add, delete, and manage tasks.
+
+Video Link: https://screenrec.com/share/jK4JQafo5X
